@@ -31,3 +31,4 @@ C:\users\parogelesr\Documents\Course_DevOps1\src\ContactosAPI\obj\Debug\net8.0\r
 C:\users\parogelesr\Documents\Course_DevOps1\src\ContactosAPI\obj\Debug\net8.0\ContactosAPI.pdb
 C:\users\parogelesr\Documents\Course_DevOps1\src\ContactosAPI\obj\Debug\net8.0\ContactosAPI.genruntimeconfig.cache
 C:\users\parogelesr\Documents\Course_DevOps1\src\ContactosAPI\obj\Debug\net8.0\ref\ContactosAPI.dll
+C:\users\parogelesr\Documents\Course_DevOps1\src\ContactosAPI\obj\Debug\net8.0\ContactosAPI.sourcelink.json
